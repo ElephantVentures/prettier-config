@@ -1,6 +1,6 @@
 {
   "name": "@elephantventures/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "prettier config",
   "main": "index.js",
   "publishConfig": {
