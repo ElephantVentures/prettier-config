@@ -1,8 +1,11 @@
 {
-  "name": "@ev/prettier-config",
+  "name": "@elephantventures/prettier-config",
   "version": "1.0.0",
   "description": "prettier config",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ElephantVentures/prettier-config.git"

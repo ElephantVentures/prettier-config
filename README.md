@@ -8,6 +8,6 @@ Then just reference this config in your `package.json`
 ```json
  {
      "name": "blah",
-     "prettier": "@ev/prettier-config"
+     "prettier": "@elephantventures/prettier-config"
  }
 ```
