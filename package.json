@@ -1,0 +1,19 @@
+{
+  "name": "@ev/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElephantVentures/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Alexander Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElephantVentures/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ElephantVentures/prettier-config#readme"
+}
