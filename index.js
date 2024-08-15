@@ -1,7 +1,7 @@
 const config = {
   arrowParens: 'always',
   printWidth: 100,
-  trailingComma: 'es5',
+  trailingComma: 'all',
   tabWidth: 2,
   semi: true,
   singleQuote: true,
